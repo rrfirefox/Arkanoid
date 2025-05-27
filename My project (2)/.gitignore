@@ -1,0 +1,58 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/[Ss]ceneStageCache/
+/Assets/[__MACOSX]/
+/*.pidb
+/*.svd
+/*.userprefs
+/*.csproj
+/*.sln
+/*.user
+/*.user.meta
+
+# Archivos temporales de Unity
+/UserSettings/
+
+# Autoguardado de escenas (si lo tienes habilitado)
+/[Aa]utomaticBackup-*/
+
+# Archivos de paquetes (pueden ser grandes y se gestionan de otra forma)
+/Packages/manifest.json
+/ProjectSettings/ProjectVersion.txt
+
+# Archivos generados por el editor
+*.asmdef
+*.asmref
+
+# Archivos de caché de Shader
+/Assets/ShaderCache/
+
+# Archivos de caché de Lightmap
+/Assets/LightmapSettings.asset
+/Assets/Lightmap-*.exr
+
+# Archivos de Burst (si utilizas Burst Compiler)
+/Library/BurstCache/
+
+# Archivos de Addressables (si utilizas Addressables)
+/Library/AddressablesLinkData/
+/Library/com.unity.addressables/
+
+# Archivos de Timeline Cache
+/Library/PlaymodeTestsEditModeRunnerCache/
+
+# Archivos de colaboración (si utilizas Collaborate)
+/Library/Collab/
+
+# Meta files que no deberían versionarse (raro, pero posible en algunos flujos de trabajo)
+# !/Assets/**/*.meta
+
+# Archivos de macOS
+.DS_Store
+.AppleDouble
+
+# Archivos de Windows
+Thumbs.db
